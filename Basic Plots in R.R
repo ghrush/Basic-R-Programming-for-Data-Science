@@ -1,6 +1,6 @@
 #BASIC PLOTS IN R
 
-###########Recreate Functions from Chapter 9###################
+###########Recreate Functions from Other Files###################
 
 #Numberize() - Get rid of commas and other junk and 
 #converts to numbers
