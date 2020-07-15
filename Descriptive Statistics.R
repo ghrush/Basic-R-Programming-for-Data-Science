@@ -1,6 +1,6 @@
 #UNDERSTANDING DESCRIPTIVE STATISTICS
 
-###########Recreate Dataframe From Chapter 5####################
+###########Recreate Dataframe From Other Files####################
 
 #Create a vector of family member names.
 myFamilyNames <- c("Dad", "Mom", "Sis", "Bro", "Dog")
