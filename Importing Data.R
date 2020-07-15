@@ -44,7 +44,7 @@ testFrame <-testFrame[,-1]
 #Remove all periods from state names within the stateName column.
 testFrame$stateName <- gsub("\\.", "", testFrame$stateName)
 
-###########Recreate Functions from Chapter 9###################
+###########Recreate Functions from Other Files###################
 
 #Numberize() - Get rid of commas and other junk and 
 #converts to numbers
